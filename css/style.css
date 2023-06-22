@@ -1,0 +1,36 @@
+/*==============================================SESSÃO DE TAGS============================================== */
+body {background-color: #9DB2BF;}
+
+        hr { 
+            width: 7% ;
+            border-style: dotted none none; 
+            background-color: #9DB2BF;
+            border-width: 12px; }
+        
+       
+        h1 { 
+            background-color: #526D82;
+            color: silver;
+            border-radius: 5px;
+            display: inline-block; }
+
+      
+        h3 { background-color: #526D82;
+            color: silver;
+            border-radius: 5px;
+            display: inline-block; }
+
+          
+        p { color: #27374D;}
+
+
+/*==============================================SESSÃO DE CLASSES==============================================*/
+
+        .cabeçalho:hover{color: black; }
+
+
+/*==============================================SESSÃO ID'S==============================================*/
+
+        #historia:hover {
+            color: black;
+        }
